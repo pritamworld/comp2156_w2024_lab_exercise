@@ -1,0 +1,8 @@
+git branch
+git branch pritesh
+git checkout pritesh
+
+git status
+git add week02.txt
+git commit -m "new file added"
+git push --set-upstream origin pritesh
